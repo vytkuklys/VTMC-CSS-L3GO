@@ -1,17 +1,19 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+
 /*Top figure bellow*/
-.blue-bg{
+.blue-bg {
     height: 50vh;
     min-height: 20rem;
     width: 100%;
     padding-top: 5rem;
     background-color: #b2e4f6;
 }
-.left-hair{
+
+.left-hair {
     width: 4rem;
     height: 3.5rem;
     background-color: #a2725a;
@@ -22,7 +24,8 @@
     top: -0.5rem;
     z-index: 0.5;
 }
-.right-hair{
+
+.right-hair {
     height: 2.5rem;
     width: 4.5rem;
     background-color: #a2725a;
@@ -34,7 +37,8 @@
     top: -0.75rem;
     z-index: 4;
 }
-.glasses-frame{
+
+.glasses-frame {
     height: 1.5rem;
     width: 3.6rem;
     background-color: #f7c09a;
@@ -46,7 +50,7 @@
     z-index: 3;
 }
 
-.left-lens{
+.left-lens {
     height: 1rem;
     width: 1rem;
     background-color: #ebebeb;
@@ -57,7 +61,8 @@
     top: 2rem;
     z-index: 4;
 }
-.right-lens{
+
+.right-lens {
     height: 1rem;
     width: 1rem;
     background-color: #ebebeb;
@@ -68,7 +73,8 @@
     top: 2rem;
     z-index: 4;
 }
-.left-suspender{
+
+.left-suspender {
     width: 0.75rem;
     height: 2rem;
     background-color: #00acf0;
@@ -78,7 +84,8 @@
     left: 2.1rem;
     z-index: 1;
 }
-.right-suspender{
+
+.right-suspender {
     width: 0.75rem;
     height: 2rem;
     background-color: #00acf0;
@@ -88,7 +95,8 @@
     right: 2.1rem;
     z-index: 1;
 }
-.shoulders-top{
+
+.shoulders-top {
     width: 5.6rem;
     height: 2rem;
     background-color: #e6e4e6;
@@ -100,20 +108,22 @@
 }
 
 /*Bottom figure bellow*/
-.pink-bg{
+.pink-bg {
     height: 50vh;
     min-height: 20rem;
     width: 100%;
     padding-top: 5rem;
     background-color: #ffeaf3;
 }
-.head-and-shoulders{
+
+.head-and-shoulders {
     width: 7rem;
     margin: 0 auto;
     background-color: #ffeaf3;
     position: relative;
 }
-.hairL{
+
+.hairL {
     height: 2.2rem;
     width: 1.1rem;
     background-color: #40c4df;
@@ -124,7 +134,8 @@
     top: 0.1rem;
     z-index: 5;
 }
-.hairR{
+
+.hairR {
     height: 2.1rem;
     width: 5rem;
     background-color: #40c4df;
@@ -136,7 +147,8 @@
     top: 0;
     z-index: 4;
 }
-.face{
+
+.face {
     height: 4.25rem;
     width: 4rem;
     background-color: #f7c09a;
@@ -149,7 +161,8 @@
     top: 0.95rem;
     z-index: 2;
 }
-.ears{
+
+.ears {
     height: 1rem;
     width: 5rem;
     background-color: #f7c09a;
@@ -161,21 +174,24 @@
     top: 2.2rem;
     z-index: 1;
 }
-.left-eye{
+
+.left-eye {
     font-size: 4.5rem;
     position: absolute;
     top: -0.4rem;
     right: 57%;
     z-index: 3;
 }
-.right-eye{
+
+.right-eye {
     font-size: 4.5rem;
     position: absolute;
     top: -0.4rem;
     left: 57%;
     z-index: 3;
 }
-.smile{
+
+.smile {
     width: 1rem;
     height: 1rem;
     border: 3px solid rgb(1, 1, 1);
@@ -189,7 +205,8 @@
     top: 3rem;
     z-index: 3;
 }
-.neck{
+
+.neck {
     height: 2.5rem;
     width: 1rem;
     background-color: #f7c09a;
@@ -201,7 +218,8 @@
     top: 3.5rem;
     z-index: 1;
 }
-.shoulders{
+
+.shoulders {
     width: 5.6rem;
     height: 2rem;
     background-color: #fc4c60;
@@ -211,10 +229,11 @@
     left: 0.7rem;
     top: 5.2rem;
 }
-.stand{
+
+.stand {
     width: 7rem;
     height: 4rem;
-    background-color:white;
+    background-color: white;
     border: 3px solid rgb(1, 1, 1);
     border-radius: 5%;
     position: absolute;
@@ -222,5 +241,3 @@
     top: 6.5rem;
     z-index: 1;
 }
-
-
